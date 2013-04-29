@@ -1,4 +1,7 @@
 *.so
+*.jnilib
+*.dll
 *.class
+*.jar
 target/
 jd-intellij/
