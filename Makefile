@@ -1,4 +1,4 @@
-OS=macosx
+OS=linux
 VERSION=x86_64
 ARCH=$(OS)/$(VERSION)
 
