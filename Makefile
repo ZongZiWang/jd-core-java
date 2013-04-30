@@ -30,4 +30,4 @@ clean:
 	rm -rf jd-core-java-1.0.jar ${shared} target jd-intellij
 
 clean-objects:
-	rm -rf jd-core-java-1.0.jar ${shared}
+	rm -rf jd-core-java-1.0.jar ${shared} target
